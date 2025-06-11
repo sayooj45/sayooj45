@@ -2,7 +2,7 @@
 
 I'm a Full Stack Development student and a passionate learner in the field of Blockchain Technology. I enjoy building web applications, exploring decentralized systems, and mentoring others who are starting their journey in blockchain.
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Currently pursuing Full Stack Web Development and specialized studies in Blockchain.
 
@@ -12,7 +12,7 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 
 💡 Love experimenting with both frontend and backend tools to build complete, scalable web apps.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express
@@ -20,9 +20,9 @@ Database: MongoDB, MySQL
 Blockchain: Solidity, Ethereum, Metamask, Remix IDE
 Tools: Git, GitHub, VS Code, Postman
 
-📫 Let's Connect
+# 📫 Let's Connect
+
 📧 Email: sayooj4545@gmail.com
-💼 LinkedIn: www.linkedin.com/in/
-sayooj-p-s-74b2a9209
+💼 LinkedIn: www.linkedin.com/in/sayooj-p-s-74b2a9209
 
 Thank you for visiting my profile! 😊
