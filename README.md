@@ -14,7 +14,7 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 
 # 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React
+Frontend: HTML, 🖌️CSS, JavaScript, React
 Backend: Node.js, Express
 Database: MongoDB, MySQL
 Blockchain: Solidity, Ethereum, Metamask, Remix IDE
