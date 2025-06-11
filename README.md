@@ -14,15 +14,15 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 
 # 🛠️ Tech Stack
 
-Frontend: : HTML : , 🖌️CSS, JavaScript, React
+:computer:Frontend: HTML ,CSS, JavaScript, React
 
-Backend: Node.js, Express
+:hammer_and_wrench:Backend: Node.js, Express
 
-Database: MongoDB, MySQL
+:file_cabinet:Database: MongoDB, MySQL
 
-Blockchain: Solidity, Ethereum, Metamask, Remix IDE
+:link:Blockchain: Solidity, Ethereum, Metamask, Remix IDE
 
-Tools: Git, GitHub, VS Code, Postman
+:wrench:Tools: Git, GitHub, VS Code, Postman
 
 # 📫 Let's Connect
 
