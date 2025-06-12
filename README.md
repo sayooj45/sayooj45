@@ -14,10 +14,13 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 
 # 🛠️ Tech Stack
 
-:computer:Frontend: ![HTML](https://img.shields.io/badge/HTMl-orange?logo=html5
-) ,CSS, JavaScript, React
+:computer:Frontend: ![HTML](https://img.shields.io/badge/HTML-black?logo=html5
+) ,![CSS](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white
+),![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=black
+) , ![React](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black
+)
 
-:hammer_and_wrench:Backend: Node.js, Express
+:hammer_and_wrench:Backend: ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white), Express
 
 :file_cabinet:Database: MongoDB, MySQL
 
