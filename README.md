@@ -20,13 +20,16 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 ) , ![React](https://img.shields.io/badge/REACT-%2361DAFB?logo=react&logoColor=black
 )
 
-:hammer_and_wrench:Backend: ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white), Express
+:hammer_and_wrench:Backend: ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white), ![Express](https://img.shields.io/badge/EXPRESS-black?logo=express&logoColor=white)
 
-:file_cabinet:Database: MongoDB, MySQL
+:file_cabinet:Database: ![MongoDB](https://img.shields.io/badge/MONGODB-%2347A248?logo=mongodb&logoColor=white
+), ![MySQL](https://img.shields.io/badge/MySql-%234479A1?logo=mysql&logoColor=white
+)
 
-:link:Blockchain: Solidity, Ethereum, Metamask, Remix IDE
-
-:wrench:Tools: Git, GitHub, VS Code, Postman
+:wrench:Tools: ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=black
+), ![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white
+), ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white
+)
 
 # 📫 Let's Connect
 
