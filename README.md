@@ -14,7 +14,8 @@ I'm a Full Stack Development student and a passionate learner in the field of Bl
 
 # 🛠️ Tech Stack
 
-:computer:Frontend: HTML ,CSS, JavaScript, React
+:computer:Frontend: ![HTML](https://img.shields.io/badge/HTMl-orange?logo=html5
+) ,CSS, JavaScript, React
 
 :hammer_and_wrench:Backend: Node.js, Express
 
